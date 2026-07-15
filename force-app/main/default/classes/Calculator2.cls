@@ -15,4 +15,9 @@ public with sharing class Calculator2 {
     {
         return a-b;
     }
+    public integer mut(integer a, integer b)
+    {
+        return a*b;
+    }
+
 }
